@@ -6,6 +6,7 @@ public class HelloWorld {
 	public static printer() {
 		System.out.println("Hello guys");
 	}
+	// no way 
 
 
 
@@ -17,6 +18,4 @@ public class HelloWorld {
 
 
 
-
-	
 }
