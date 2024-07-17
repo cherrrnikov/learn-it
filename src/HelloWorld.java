@@ -6,4 +6,17 @@ public class HelloWorld {
 	public static printer() {
 		System.out.println("Hello guys");
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+	
 }
